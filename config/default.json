@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://AnneApp:MEgustaAMOR-2012@annedb-wzs4q.azure.mongodb.net/test?retryWrites=true&w=majority"
+}
