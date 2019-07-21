@@ -1,7 +1,8 @@
+// required dependencies
 const mongoose = require("mongoose");
 const config = require("config");
 const mongoDatabase = config.get("mongoURI");
-
+/*
 const connectDb = async () => {
   try {
     await mongoose.connect(mongoDatabase, {
@@ -10,9 +11,10 @@ const connectDb = async () => {
       useFindAndModify: false
     });
     console.log("Database connected");
-  } catch (error) {
-    console.error(error.message);
+  } catch (err) {
+    console.error(err.message);
     process.exit(1);
   }
 };
 module.exports = connectDb;
+*/

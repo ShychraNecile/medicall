@@ -1,15 +1,23 @@
 const mongoose = require("mongoose");
-const Schema = mongoose.Schema;
 
 // create SideEffectSchema
-
-const SideEffectSchema = new Schema({
+const SideEffectSchema = mongoose.Schema({
   sideEffect: {
-    type: String
+    type: String,
+    required: true
   },
   nameMedication: {
     type: String
   }
 });
+
 // turn Schema into model
-module.exports = SideEffect = mongoose.model("SideEffect", SideEffectSchema);
+const SideEffect = (model.exports = mongoose.model(
+  "SideEffect",
+  SideEffectSchema
+));
+
+// get sideEffects
+module.exports.getSideEffects = function(callback) {
+  SideEffect.find(callback);
+};

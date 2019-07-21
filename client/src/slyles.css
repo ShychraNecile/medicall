@@ -1,0 +1,58 @@
+body {
+    background-color: #80ffaa;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #000033;
+    position: fixed;
+    width: 100%;
+}
+
+.mediInput {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.mediIntro {
+    margin-top: 4rem;
+    font-size: 25px;
+    text-align: center;
+}
+
+.mediInput input {
+    font-size: 60px;
+    color: #4dff88;
+    margin: auto;
+    border: solid #000033;
+}
+
+.inhoud {
+    text-align: center;
+}
+
+#titelInhoud {
+    text-align: center;
+    padding: 1rem;
+    background: #4dff88;
+    color: #000033;
+    height: 60px;
+}
+
+.okButton {
+    font-size: 25px;
+    font-weight: bold;
+    padding: 15px;
+    color: #000033;
+    background: #9bc1fa;
+    border: solid #000033;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-bottom: 1rem;
+}
+
+#main-footer {
+    text-align: center;
+    padding: 1rem;
+    background: #4dff88;
+    color: #000033;
+    height: 40px;
+}
