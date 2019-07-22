@@ -1,9 +1,29 @@
-body {
-    background-color: #80ffaa;
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+.banner {
+    text-align: right;
+}
+
+.ENvlag {
+    display: none;
+}
+
+#container {
+    min-height: 100%;
+}
+
+#main {
+    padding-bottom: 50px;
+    background-color: F0FFF0;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #000033;
-    position: fixed;
-    width: 100%;
 }
 
 .mediInput {
@@ -20,9 +40,9 @@ body {
 
 .mediInput input {
     font-size: 60px;
-    color: #4dff88;
+    color: #000080;
     margin: auto;
-    border: solid #000033;
+    border: solid #000080;
 }
 
 .inhoud {
@@ -32,12 +52,12 @@ body {
 #titelInhoud {
     text-align: center;
     padding: 1rem;
-    background: #4dff88;
+    background: #4682B4;
     color: #000033;
     height: 60px;
 }
 
-.okButton {
+.cmd {
     font-size: 25px;
     font-weight: bold;
     padding: 15px;
@@ -52,7 +72,10 @@ body {
 #main-footer {
     text-align: center;
     padding: 1rem;
-    background: #4dff88;
+    background: #4682B4;
     color: #000033;
     height: 40px;
+    position: relative;
+    margin-top: -50px;
+    clear: both;
 }

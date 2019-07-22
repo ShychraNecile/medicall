@@ -8,27 +8,49 @@
     />
     <title>MediCall</title>
     <link rel="stylesheet" href="styles.css" />
-    <script type="text/javascript" src="main.js"></script>
+    <script type="text/javascript" src="code.js"></script>
   </head>
   <!-- einde head-->
-
-  <body>
-    <!-- Main inhoud -->
-    <td class="inhoud" id="mainInhoud">
-        <div class="inhoud" id="titelInhoud">
-          <h1 class="titel">MediCall</h1>
-        </div>
+  <body onload="bodyOnload()">
+    <div class="banner">
+        <img class="NLvlag" onclick="NLclick()" id="NL" src="NlVlag.jpeg" width="50">&nbsp
+        <img class="ENvlag" onclick="ENclick()" id="EN" src="EngelseVlag.jpeg" width="50"></div>
+    <!-- Main inhoud onload="onload()"-->
+    <div id="container">
+      <div id="main">
+        <div class="inhoud" id="mainInhoud">
+          <div class="inhoud" id="titelInhoud">
+            <h1 class="titel">MediCall</h1>
+          </div>
           <div class="mediInput">
-              <p class="mediIntro">Voel jij je niet helemaal lekker?</p>     
-            <h2 class="invoerveldKwaal">              
-              Vul hier je kwaal in:</h2>
-          <input type="text" id="invoerKwaal" value="" placeholder="Voer kwaal in"/>
-          </div><br />
-          <button class="okButton" onclick="submitCal()">Ok</button>
-          <!-- uitgebreid zoeken-->
-    </td>
-        <!-- Einde Main inhoud -->
+            <p class="mediIntro">Voel jij je niet helemaal lekker?  <br>
+            Dit zou een bijwerking van een medicijn kunnen zijn:</p>
+          
+            <input
+              type="text"
+              id="invoerKwaal"
+              value=""
+              placeholder="Voer kwaal in"
+              required
+            />
+          </div>
+          <br />
+          <!--controlevraag voor gebruiker-->
+          <button onclick="submitCheckOk()" class="cmd">Ok</button>
+          <div id="invoerGegeven">
+            <p></p>
+          </div>
+          <div class="container" id="container">
+                
+                <textarea id="medicatieLijst">
+                </textarea
+          >
+        </div>
+      </div>
+    </div>
+    <!-- Einde Main inhoud -->
     <footer id="main-footer">
       &copy; 2019 Annemarleen Bosma
+    </footer>
   </body>
 </html>
