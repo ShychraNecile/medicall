@@ -1,0 +1,547 @@
+{
+    "sideEffects": [
+        {
+            "sideEffects": "minder rode bloedcellen",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "minder witte bloedcellen",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "minder bloedplaatjes",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "bloedarmoede",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "bloedingen",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "infecties",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "extreme vermoeidheid",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "bleke huid",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "bleke slijmvliezen",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "bloedneus",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "blauwe plekken",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "keelpijn",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "blaren in de mond",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "koorts",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "misselijkheid",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "braken",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "ontsteking van de lever",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "ontsteking van de alvleesklier",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "plotselinge hevige pijn in de buik",
+            "nameMedicine": "Azathioprine",
+        } {
+            "sideEffects": "gele kleur van de huid",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "gele kleur van de slijmvliezen",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "ernstige ontsteking van de darm",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "haaruitval",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "huidkanker",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "te veel cholesterol in het bloed",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "te veel vetten in het bloed",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "PML",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "ernstige aandoening van de hersenen",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "problemen met de coördinatie",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "spierzwakte",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "moeite met zien",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "moeite met spreken",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "veranderingen van de persoonijkheid",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "overgevoeligheid",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "jeuk",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "galbulten",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "koorts",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "benauwdheid",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "flauwvallen",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "ernstige huidaandoening",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "ernstige leveraandoening",
+            "nameMedicine": "Azathioprine"
+        },
+        {
+            "sideEffects": "oedeem",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "hoofdpijn",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "warmtegevoel",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "blozen",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "spierkramp",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "duizeligheid",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "wazig zien",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "slaperigheid",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "vermoeidheid",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "zwak gevoel",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "maagdarmklachten",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "misselijkheid",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "buikpijn",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "diarree",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "verstopping",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "hartkloppingen",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "spierpijn",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "pijn in de rug",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "gewrichtspijn",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "slapeloosheid",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "depressiviteit",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "stemmingswisselingen",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "verwardheid",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "angstgevoelens",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "smaakveranderingen",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "droge mond",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "tandvleesproblemen",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "trillende handen",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "borstvorming bij mannen",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "impotentie",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "loopneus",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "kortademigheid",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "oorsuizen",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "haaruitval",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "huiduitslag",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "jeuk",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "overmatig zweten",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "huidverkleuring",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "overgevoeligheid",
+            "nameMedicine": "Amlodipine"
+        },
+        {
+            "sideEffects": "kriebelhoest",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "duizeligheid",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "maagdarmklachten",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "misselijkheid",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "buikpijn",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "diarree",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "zwak gevoel",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "wazig zien",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "hoofdpijn",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "vermoeidheid",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "smaakveranderingen",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "droge mond",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "teveel aan kalium",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "lusteloosheid",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "hartritmestoornissen",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "overgevoeligheid",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "huiduitslag",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "galbulten",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "angio-oedeem",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": zwelling van het gezicht",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "zwelling van de lippen",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "zwelling van de mond",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "zwelling van de tong",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "zwelling van de keel",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "benauwd",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "spierkramp",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "oorsuizen",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "haaruitval",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "blozen",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "slaperigheid",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "slapeloosheid",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "zenuwachtigheid",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "draaiduizeligheid",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "verwardheid",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "impotentie",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "ernstige huidaandoening",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "blaren op de huid",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "vurig rode huid",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "griepachtige verschijnselen",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "loopneus",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "keelpijn",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "heesheid",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "kortademigheid",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "zweten",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "longontsteking",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "ernstige benauwdheid",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "verminderde nierwerking",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "ontsteking van de alvleesklier",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "ontsteking van de lever",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "bloedafwijkingen",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "geelzucht",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "plotselingen hevige pijn in bovenbuik",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "onverklaarbare blauwe plekken",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "extreme vermoeidheid",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "keelpijn met koorts",
+            "nameMedicine": "Renitec"
+        },
+        {
+            "sideEffects": "keelpijn met blaren in de keel",
+            "nameMedicine": "Renitec"
+        }
+    }
+]
