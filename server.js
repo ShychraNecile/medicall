@@ -16,8 +16,8 @@ app.get("/medicall/models/SideEffects", function(req, res) {
   res.send("sideEffects");
 });
 
-app.listen(3000);
-console.log("Running on port 3000!");
+app.listen(5500 / client);
+console.log("Running on port 5500!");
 /*
 connectDb();
 app.get("/", function(req, res) {

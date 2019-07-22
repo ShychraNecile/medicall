@@ -13,8 +13,22 @@
   <!-- einde head-->
   <body onload="bodyOnload()">
     <div class="banner">
-        <img class="NLvlag" onclick="NLclick()" id="NL" src="NlVlag.jpeg" width="50">&nbsp
-        <img class="ENvlag" onclick="ENclick()" id="EN" src="EngelseVlag.jpeg" width="50"></div>
+      <img
+        class="NLvlag"
+        onclick="NLclick()"
+        id="NL"
+        src="NlVlag.jpeg"
+        width="50"
+      />&nbsp
+      <img
+        class="ENvlag"
+        onclick="ENclick()"
+        id="EN"
+        src="EngelseVlag.jpeg"
+        width="50"
+      />
+    </div>
+
     <!-- Main inhoud onload="onload()"-->
     <div id="container">
       <div id="main">
@@ -23,9 +37,11 @@
             <h1 class="titel">MediCall</h1>
           </div>
           <div class="mediInput">
-            <p class="mediIntro">Voel jij je niet helemaal lekker?  <br>
-            Dit zou een bijwerking van een medicijn kunnen zijn:</p>
-          
+            <p class="mediIntro" id="intro">
+              Voel jij je niet helemaal lekker? <br />
+              Dit zou een bijwerking van een medicijn kunnen zijn:
+            </p>
+
             <input
               type="text"
               id="invoerKwaal"
@@ -37,14 +53,7 @@
           <br />
           <!--controlevraag voor gebruiker-->
           <button onclick="submitCheckOk()" class="cmd">Ok</button>
-          <div id="invoerGegeven">
-            <p></p>
-          </div>
-          <div class="container" id="container">
-                
-                <textarea id="medicatieLijst">
-                </textarea
-          >
+          <textarea id="medicatieLijst"> </textarea>
         </div>
       </div>
     </div>
