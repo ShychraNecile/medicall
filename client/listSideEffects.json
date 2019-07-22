@@ -74,8 +74,9 @@
         },
         {
             "sideEffects": "plotselinge hevige pijn in de buik",
-            "nameMedicine": "Azathioprine",
-        } {
+            "nameMedicine": "Azathioprine"
+        },
+        {
             "sideEffects": "gele kleur van de huid",
             "nameMedicine": "Azathioprine"
         },
@@ -396,7 +397,7 @@
             "nameMedicine": "Renitec"
         },
         {
-            "sideEffects": zwelling van het gezicht",
+            "sideEffects": "zwelling van het gezicht",
             "nameMedicine": "Renitec"
         },
         {
@@ -543,5 +544,5 @@
             "sideEffects": "keelpijn met blaren in de keel",
             "nameMedicine": "Renitec"
         }
-    }
-]
+    ]
+}
