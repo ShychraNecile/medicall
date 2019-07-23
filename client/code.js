@@ -1,3 +1,4 @@
+//https://balsamiq.cloud/sqjpurw/pz5niat/r7D2E balsamique of a peer
 var medicationMockup = [
   {
     sideEffects: "minder rode bloedcellen",
@@ -597,44 +598,50 @@ function submitCheckOk() {
     //var containerDiv = document.getElementById("container");
     //containerDiv.style.display = "block";
     var medicatieLijstTextArea = document.getElementById("medicatieLijst");
-    medicatieLijstTextArea.value = "aspirine";
+    medicatieLijstTextArea.value = ["aspirine"];
   } else {
     alert("Vul een kwaal in.");
   }
 }
 
 function ENclick() {
-  console.log("Dit is een Nederlandse site");
-  var NLvlag = document.getElementById("NL");
+  console.log("The English site");
+  var NLvlag = document.getElementById("NLvlag");
   NLvlag.style.display = "block";
-  var ENvlag = document.getElementById("EN");
+  var ENvlag = document.getElementById("ENvlag");
   ENvlag.style.display = "none";
   localStorage.setItem("language", "NL");
+  var introP = document.getElementById("intro");
+  introP.innerText = "Not feeling right? This could be from the medication:";
 }
 function NLclick() {
-  console.log("Dit is een engelse site");
-  var NLvlag = document.getElementById("NL");
+  console.log("Nederlandse site");
+  var NLvlag = document.getElementById("NLvlag");
   NLvlag.style.display = "none";
-  var ENvlag = document.getElementById("EN");
+  var ENvlag = document.getElementById("ENvlag");
   ENvlag.style.display = "block";
-  localStorage.setItem("language", "NL");
+  localStorage.setItem("language", "EN");
+  var introP = document.getElementById("intro");
+  introP.innerText =
+    "Voel jij je niet helemaal lekker? Dit zou een bijwerking van een medicijn kunnen zijn:";
 }
+
 function bodyOnload() {
   console.log(localStorage.getItem("language"));
   if (localStorage.getItem("language") == "NL") {
-    var NLvlag = document.getElementById("NL");
+    var NLvlag = document.getElementById("NLvlag");
     NLvlag.style.display = "none";
-    var ENvlag = document.getElementById("EN");
+    var ENvlag = document.getElementById("ENvlag");
     ENvlag.style.display = "block";
     localStorage.setItem("language", "EN");
     // inhoud aanpassen nav gekozen taal
     var introP = document.getElementById("intro");
     introP.innerText = "Not feeling right? This could be from the medication:";
   } else {
-    var NLvlag = document.getElementById("NL");
-    NLvlag.style.display = "block";
-    var ENvlag = document.getElementById("EN");
-    ENvlag.style.display = "none";
+    var ENvlag = document.getElementById("NLvlag");
+    ENvlag.style.display = "block";
+    var NLvlag = document.getElementById("ENvlag");
+    NLvlag.style.display = "none";
     localStorage.setItem("language", "NL");
     // inhoud aanpassen nav gekozen taal
     var introP = document.getElementById("intro");
